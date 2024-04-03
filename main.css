@@ -1,0 +1,16 @@
+.main_button {
+	display: block;
+	height:100px;
+	width:200px;
+	margin: 0 auto;
+}
+
+.num_clicks {
+
+	text-align: center;
+
+}
+
+.titulo {
+	text-align: center;
+}
